@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm salman
-<img src="https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg" alt="">
+<img src="https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg" alt="" width= "400">
 
 
 - 🌱 I’m currently learning data analysis
