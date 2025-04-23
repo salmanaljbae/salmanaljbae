@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm salman
-<img src="assests/salman.jpg">
+<img src="[https://aiartshop.com/cdn/shop/files/swrt-jmylt-ai-artwork-706.webp?v=1708170031](https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg)" alt="">
+
 
 - 🌱 I’m currently learning data analysis
 - 👨🏻‍🎓 I'm studying IT: Managemen information systems
