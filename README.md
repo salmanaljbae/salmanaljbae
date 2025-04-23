@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm salman
-<img src="[https://aiartshop.com/cdn/shop/files/swrt-jmylt-ai-artwork-706.webp?v=1708170031](https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg)" alt="">
+<img src="https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg" alt="">
 
 
 - 🌱 I’m currently learning data analysis
