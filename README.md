@@ -8,30 +8,39 @@
 
 ### 📌 About Me
 
-- 🎓 **IT Student** — specializing in **Management Information Systems**
-- 🌱 Currently diving deep into **Data Analysis**
-- 🤝 Open for collaboration on **analytical and data-driven projects**
-- 📫 **Reach me at:** [salmansss113@gmail.com](mailto:salmansss113@gmail.com)
+* 📊 **Aspiring Data Analyst** with a focus on turning data into practical business insights
+* 🎓 **MIS Student** — studying **Management Information Systems**
+* 🤝 Open to collaboration on data-driven and analytical projects
+* 📫 **Reach me at:** [salmansss113@gmail.com](mailto:salmansss113@gmail.com)
 
 ---
 
-### 💡 Interests
+### 💡 Skills
 
-- Data Analysis & Visualization
-- Business Intelligence & Decision Support Systems
-- Management Information Systems
-- Applied Analytics for Business & Economics
+* Data Analysis & Visualization
+* Business Intelligence and Reporting
+* Excel, SQL and Power BI
+* Data Cleaning, Transformation, and Dashboard Design
+* Turning raw data into actionable insights
+
+---
+
+### 📊 Featured Projects
+
+* **Customer Churn Analysis** — analyzed churn patterns in a telecommunications company to identify key drivers of customer attrition and support retention strategies.
+* **Bike Sharing Conversion Analysis** — studied user behavior in a bicycle rental company to understand monthly subscriber trends and support conversion from monthly to annual plans.
+* **Historical Logistics Cost Analysis** — examined historical logistics expenses to investigate the causes of high operational costs and highlight improvement opportunities.
+* **Gold Financial Dashboard** — developed a financial dashboard to visualize gold inventory metrics and wallet growth, supporting clear tracking of financial performance.
 
 ---
 
-### 📊 Current Goals
+### 🎯 Current Focus
 
-- Master professional tools for data analysis: **Excel, SQL, Python, Power BI**
-- Work on real-world analytical projects
-- Expand my professional network within the data and IT fields
+* Building a diverse portfolio of business projects to develop the flexibility to handle a wide range of real-world scenarios
 
 ---
+
 
 <p align="center">
-  <b>Let's connect and build something valuable together!</b>
+  <b>Turning data into decisions — one project at a time.</b>
 </p>
