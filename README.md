@@ -1,9 +1,5 @@
 ## 👋 Hi there — I'm **Salman**
 
-<p align="center">
-  <img src="" alt="Salman's photo" width="400" style="border-radius: 15px;"> 
-</p>
-
 ---
 
 ### 📌 About Me
