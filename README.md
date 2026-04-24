@@ -1,7 +1,7 @@
 ## 👋 Hi there — I'm **Salman**
 
 <p align="center">
-  <img src="https://github.com/salmanaljbae/salmanaljbae/blob/main/assets/salman.jpg" alt="Salman's photo" width="400" style="border-radius: 15px;">
+  <img src="" alt="Salman's photo" width="400" style="border-radius: 15px;"> 
 </p>
 
 ---
