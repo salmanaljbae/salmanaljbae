@@ -27,7 +27,7 @@
 * **Bike Sharing Conversion Analysis** — studied user behavior in a bicycle rental company to understand monthly subscriber trends and support conversion from monthly to annual plans.
 * **Historical Logistics Cost Analysis** — examined historical logistics expenses to investigate the causes of high operational costs and highlight improvement opportunities.
 * **Gold Financial Dashboard** — developed a financial dashboard to visualize gold inventory metrics and wallet growth, supporting clear tracking of financial performance.
-* **Financial-Performance-Analysis-PlantG** — historical financial analysis. in order to understand business performance Through business metrics, time intelligence, and trend discovery.
+* **Financial-Performance-Analysis-PlantGo** — historical financial analysis. in order to understand business performance Through business metrics, time intelligence, and trend discovery.
 
 ---
 
