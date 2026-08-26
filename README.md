@@ -27,6 +27,7 @@
 * **[Gold Wallet Dashboard](https://github.com/salmanaljbae/Gold-Wallet-Dashboard)** — An interactive Power BI dashboard tracking a gold investment wallet's holdings, market value, and ROI, with a live API connection for real-time gold pricing.
 * **[Customer Churn Analysis — Databel](https://github.com/salmanaljbae/customer-churn-analysis)** — A Power BI project investigating customer churn drivers, behavioral risk patterns, and retention opportunities for a telecom company.
 * **[PlantGo Financial Performance Analysis](https://github.com/salmanaljbae/Financial-Performance-Analysis-PlantGo)** — A historical financial analysis dashboard examining revenue, profitability, and YoY growth across products, product types, and countries.
+* **[Operational Cost & Consumption Analysis — Apex Real Estate](https://github.com/salmanaljbae/Real-Estate-Operating-Expense-Analytics)** — A business-focused Power BI dashboard analyzing operational expenses, resource consumption efficiency, and cost optimization across quarterly periods for a real estate company.
 * **[Cyclistic Bike-Share Case Study](https://github.com/salmanaljbae/Cyclistic_Bike_Share_Analysis)** — A Google Data Analytics capstone project analyzing rider behavior to convert casual riders into annual members, using SQL and Tableau.
 
 ---
